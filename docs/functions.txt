@@ -1,0 +1,104 @@
+Implementacion de las funcionalidades:
+
+Frontend:
+- Splash Intro Screen
+- Payment Screen
+- SignIn ,SignOut Screen			(CASI LISTO)
+- Profile Screen				(CASI LISTO)
+- Config Payment Screen				(CASI LISTO)	
+- legal Screen					(...)
+- payment managemnt Screen 			(CASI LISTO)
+- Search Realtime location Screen		(LISTO)	
+- Search Realtime service Screen		(LISTO)
+- Location Service Screen			
+- Payment service component 
+- Profile Service Screen			(CASI LISTO)
+- Opciones de Pago Screen			
+
+Backend:
+- Auth OTP,Google SignIn,SignOut		(CASI LISTO)
+- Payments Services 				
+- Config Payment Screen				(-)			
+- Location Services				(-)
+- Search Realtime location			(-)
+- Search Realtime Services			(-)
+- Config (Delete Account, Close sesion)		(CASI LISTO)
+- Notification Services				(-)
+- Profile Services				(CASI LISTO)
+
+
+Orden de las implementaciones:
+
+- Definir los Modelos e implementacion de Login correctamente
+- Guardar los modelos con sus respectiva informacion
+- Implementar componente funcionalidad busqueda de direcciones
+- Implementar la funcionalidad de location service realtime (Algoritmo que busca lo mas cercano)
+- Poder implementar la efectuacion de los pagos
+- Implementar el tracking del servicio
+- Poder calificar por el trabajo
+- Definir las pages de el service Provider
+
+
+------------------------------
+Provider Service: (Ahora)
+50 usuarios: 20.000 por usuaro 
+20.000 * 100 = 2.000.000
+publicidad: (Ahora)
+3.000 * 30 ) 90.000
+-------------------------------
+Client (a los 1000 usuarios):
+5.000 * 100 = 500.000
+
+3 lugares de anuncios: (a los 1000 usuarios)
+3000 usd cada una (9.000)
+---------------------------------
+
+12000
+6000
+9000
+---- 27000 USD
+
+
+
+ESTRATEGIA DE LA APP
+
+(5 dias)  Dias de Desarrollo
+(2 dias) testeo de app
+(7 dias) de esteo de la aplicacion
+(14 dias)  buscar a los primeros 100 clientes
+- Feeedback
+- Contacto directo con ellos
+- Necesitas que ellos tiene en la aplicacion
+* Buscar un desarrollador PRO: 
+(30 dias) Ejecutar plan de Escalado de servicios y Plan de Marketing
+- Redes sociales (Istagram, tiktok (propias))
+- Marketin de Influencer
+
+* Mejorar el Modelo de negocio
+* Scalar la aplicacion
+* Mejorar la Propuesta de Valor
+* Marketing
+
+META: Donde esta el cliente en internet 
+
+
+ITERAR EL ULTIMO PASO:
+* METAS DE USUARIOS
+* METAS DE MACH
+* SERVICIO AL CLIENTE
+* CONSTRUIR UN SISTEMA DE ANALITICA
+
+META: Mejorar la propuesta de valor de los clientes que pagan
+
+
+
+
+
+
+
+
+
+
+
+
+
